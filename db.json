@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "price": "30",
+      " count": "30",
+      " isInCart": " false"
+    },
+    {
+      "id": "2",
+      "name": "Fries",
+      "price": "20 ",
+      "count": "20",
+      "isInCart": "false"
+    },
+    {
+      "id": "3",
+      "name": "Cola",
+      "price": "10",
+      "count": "10",
+      "isInCart": "false"
+    },
+    {
+      "id": "4",
+      "name": "Water",
+      "price": "10",
+      "count": "5",
+      "isInCart": "false"
+    },
+    {
+      "name": "",
+      "price": "",
+      "count": 5,
+      "isInCart": false,
+      "id": "JAuErN8"
+    },
+    {
+      "name": "Large Burger",
+      "price": "40",
+      "count": 5,
+      "isInCart": false,
+      "id": "uYKcyxm"
+    }
+  ]
+}
